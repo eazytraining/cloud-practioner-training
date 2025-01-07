@@ -14,7 +14,7 @@
 3. Snowball Edge
 
 
-4. Application Migration Service(Service de migration des applications) 
+4. Application Migration Service(Service de migration des applications) (réponse: Le service de migration d'applications est utilisé pour migrer des applications fonctionnant sur des serveurs physiques, des serveurs virtuels, d'autres fournisseurs de cloud et d'autres comptes ou régions AWS.)
 
 #### QUESTION 2
 
@@ -30,7 +30,7 @@
 3. Utilisez le service de migration de base de données pour migrer la base de données vers PostgreSQL.
 
 
-4. Utilisez l'outil de conversion de schéma pour convertir la base de données en PostgreSQL. 
+4. Utilisez l'outil de conversion de schéma pour convertir la base de données en PostgreSQL. (réponse: L'outil Schema Conversion Tool est utilisé pour convertir un schéma de base de données en un autre.)
 
 #### QUESTION 3
 
@@ -46,7 +46,7 @@
 3. Outil de conversion des schémas
 
 
-4. Hub de migration 
+4. Hub de migration (Migration Hub est un service qui s'intègre avec Application Discovery Service, Application Migration Service et Database Migration Service, pour orchestrer et suivre les migrations de plusieurs serveurs vers AWS.)
 
 #### QUESTION 4
 
@@ -56,7 +56,7 @@
 1. DataSync
 
 
-2. Transfer Family(Famille de transfert) 
+2. Transfer Family(Famille de transfert) (réponse : Transfer Family est un service de partage et de transfert de fichiers qui permet à des tiers de transférer des fichiers depuis et vers votre espace de stockage AWS. Plusieurs protocoles sont pris en charge, notamment SFTP, AS2, FTPS et FTP.)
 
 
 3. Transfer Family(Famille Snowball)
@@ -78,7 +78,7 @@
 3. Snowball Edge
 
 
-4. Snowball mobile(Motoneige) 
+4. Snowball mobile(Motoneige) (reponse : Snowmobile vous permet de transporter de très grandes quantités de données vers AWS. Par exemple, chaque Snowmobile permet de transporter jusqu'à 100 Po de données stockées dans un conteneur d'expédition tiré par un camion.)
 
 
 #### QUESTION 6
@@ -92,7 +92,7 @@
 2. Snowball Edge
 
 
-3. Service de découverte d'applications (Application Discovery Service) 
+3. Service de découverte d'applications (Application Discovery Service) (réponse: Le service de découverte d'applications est utilisé pour créer automatiquement un inventaire de vos systèmes, y compris les détails des applications installées, les versions du système d'exploitation et les communications réseau entrantes/sortantes.)
 
 
 4. Service de migration des applications (Application Migration Service)
@@ -105,7 +105,7 @@
 1. Outil de découverte d'applications (Application Discovery Tool)
 
 
-2. Service de migration des bases de données (Database Migration Service) 
+2. Service de migration des bases de données (Database Migration Service) (réponse : Le service de migration des bases de données est utilisé pour migrer les bases de données vers AWS.)
 
 
 3. RDS
@@ -122,7 +122,7 @@
 1. Transférer les données sur Internet à l'aide de HTTPS.
 
 
-2. Utiliser AWS Snowball pour déplacer les données. 
+2. Utiliser AWS Snowball pour déplacer les données. (réponse: AWS Snowball permet de transférer des téraoctets de données de votre centre de données sur site vers AWS. Snowball est conçu pour vous permettre de transférer des ensembles de données de 10 To ou plus.)
 
 
 3. Configurez un VPN entre votre centre de données et AWS pour transférer les données en toute sécurité.
@@ -145,7 +145,7 @@
 3. DataSync
 
 
-4. Snowcone (Snowcone) 
+4. Snowcone (Snowcone) (réponse : Snowcone est un petit dispositif de transfert de données robuste, de qualité militaire, qui vous permet de traiter et de transférer des données vers AWS. Il est conçu pour les environnements qui ne disposent pas d'une bande passante ou d'une connectivité réseau constante.)
 
 #### QUESTION 10
 
@@ -158,7 +158,7 @@
 2. Service de migration des bases de données (Database Migration Service)
 
 
-3. Motoneige (Snowmobile) 
+3. Motoneige (Snowmobile) (réponse: Snowmobile est une solution de transfert de données conçue pour migrer 10 PB ou plus vers AWS.)
 
 
 4. DataSync

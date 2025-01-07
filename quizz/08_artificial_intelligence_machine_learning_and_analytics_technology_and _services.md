@@ -11,7 +11,7 @@
 2. Amazon Transcribe
 
 
-3. Amazon Textract 
+3. Amazon Textract (réponse: Amazon Textract est un service conçu pour extraire du texte et des informations de documents.)
 
 
 4. Amazon Polly
@@ -24,7 +24,7 @@
 1. Athena
 
 
-2. Kendra 
+2. Kendra (réponse : Kendra est un service qui fournit une fonctionnalité de recherche personnalisée, permettant aux utilisateurs de rechercher des documents .doc, .ppt. PDF, HTML, XML et CSV en utilisant le langage naturel.)
 
 
 3. Polly
@@ -40,7 +40,7 @@
 1. Amazon OpenSearch
 
 
-2. Amazon Quicksight 
+2. Amazon Quicksight (réponse : Amazon Quicksight est un service d'analyse commerciale qui vous permet de prendre de meilleures décisions sur la base de vos données. Il vous permet de créer facilement des tableaux de bord pour visualiser vos données.)
 
 
 3. Amazon Athena (Amazon Athena est un service qui vous permet d'exécuter des requêtes SQL standard sur des données stockées dans S3.)
@@ -62,7 +62,7 @@
 3. AWS Glue (AWS Glue est un service ETL (Extract Transform and Load) qui prépare vos données pour l'analytique et la ML.)
 
 
-4. Kinesis Data Firehose 
+4. Kinesis Data Firehose (réponse: Kinesis Data Firehose capture, transforme et charge les données en continu dans les magasins de données.)
 
 #### QUESTION 5
 
@@ -78,7 +78,7 @@
 3. EMR
 
 
-4. Athéna 
+4. Athéna (réponse: Athena est un service d'interrogation interactif pour les données stockées dans S3. Il vous permet d'interroger les données stockées dans S3 à l'aide de SQL standard.)
 
 #### QUESTION 6
 
@@ -94,7 +94,7 @@
 3. Amazon Kinesis
 
 
-4. Amazon MSK (Managed Streaming for Apache Kafka) 
+4. Amazon MSK (Managed Streaming for Apache Kafka) (réponse: Amazon MSK (Managed Streaming for Apache Kafka) est un service Apache Kafka entièrement géré qui peut être utilisé pour traiter un flux continu de données en temps réel.)
 
 #### QUESTION 7
 
@@ -107,7 +107,7 @@
 2. Amazon Translate
 
 
-3. Amazon Comprehend 
+3. Amazon Comprehend (réponse : Amazon Comprehend est un service capable de lire et de comprendre vos données textuelles afin de découvrir des phrases clés, des sujets et des langues, d'effectuer une analyse des sentiments ou une recherche intelligente.)
 
 
 4. Amazon Transcribe
@@ -126,7 +126,7 @@
 3. Textract
 
 
-4. Lex 
+4. Lex (réponse : Lex est un service conçu pour vous permettre de créer facilement un chatbot conversationnel.)
 
 #### QUESTION 9
 
@@ -139,7 +139,7 @@
 2. Redshift (Redshift est une solution d'entreposage de données conçue pour le traitement analytique en ligne (OLAP) de grandes quantités de données.)
 
 
-3. AWS Glue 
+3. AWS Glue (réponse : AWS Glue est un service ETL qui prépare vos données pour l'analytique et le ML. Il catalogue vos données et exécute les fonctions d'extraction, de transformation et de chargement.)
 
 
 4. Amazon MSK (Managed Streaming for Kafka)
@@ -158,4 +158,4 @@
 3. OpenSearch
 
 
-4. Redshift 
+4. Redshift (réponse: Redshift est une solution d'entreposage de données conçue pour gérer des pétaoctets de données utilisées pour le traitement analytique (OLAP).)

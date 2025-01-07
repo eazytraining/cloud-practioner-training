@@ -8,7 +8,7 @@
 1. GuardDuty (GuardDuty est un service intelligent de détection des menaces, principalement utilisé pour détecter les activités malveillantes autour de votre compte AWS.)
 
 
-2. Inspecteur (Inspector) 
+2. Inspecteur (Inspector) (réponse : Inspector permet une gestion automatisée et continue des vulnérabilités à grande échelle.)
 
 
 3. Détective (Detective)
@@ -27,7 +27,7 @@
 2. Tour de contrôle AWS (AWS Control Tower)
 
 
-3. Artifice AWS (AWS Artifact) 
+3. Artifice AWS (AWS Artifact) (réponse : Artifact est un portail libre-service gratuit qui permet d'accéder aux rapports de conformité.)
 
 
 4. Sécurité du nuage AWS (AWS Cloud Security)
@@ -40,7 +40,7 @@
 1. Le pare-feu réseau (Network firewall)
 
 
-2. Bouclier AWS (AWS Shield) 
+2. Bouclier AWS (AWS Shield) (réponse : Shield est conçu pour détecter et atténuer dynamiquement les attaques DDoS.)
 
 
 3. Hub de sécurité (Security Hub)
@@ -72,7 +72,7 @@
 1. Activer GuardDuty
 
 
-2. Utiliser Macie 
+2. Utiliser Macie (réponse : Macie utilise l'apprentissage automatique (ML) et la recherche de modèles pour découvrir et vous aider à protéger vos données sensibles.)
 
 
 3. Activer Detective (Bien que Detective exploite l'apprentissage automatique, il est utilisé pour enquêter sur les événements de sécurité plutôt que pour inspecter les objets S3 à la recherche de données sensibles.)
@@ -85,7 +85,7 @@
 ##### Vous souhaitez donner à votre application basée sur EC2 l'accès à des secrets tels que des identifiants de base de données et des mots de passe, et vous voulez que ces identifiants changent automatiquement. Quel service devez-vous utiliser ?
 
 
-1. Magasin de paramètres (Parameter Store) 
+1. Magasin de paramètres (Parameter Store) (réponse : Le gestionnaire de secrets vous permet d'accéder de manière programmatique à des secrets cryptés et d'effectuer une rotation automatique des secrets.)
 
 
 2. Gestionnaire de secrets (Secrets Manager)
@@ -110,7 +110,7 @@
 3. Utilisez Security Hub pour centraliser les résultats de facturation dans un seul compte.
 
 
-4. Utiliser AWS Organizations pour gérer plusieurs comptes. 
+4. Utiliser AWS Organizations pour gérer plusieurs comptes. (réponse: AWS Organizations vous permet de connecter plusieurs comptes à un compte de gestion, de bénéficier d'une facturation consolidée et de mettre en place une surveillance centralisée des ressources et de la sécurité.)
 
 #### QUESTION 8
 
@@ -123,7 +123,7 @@
 2. Activez toujours l'authentification multifactorielle pour l'utilisateur root.
 
 
-3. Vous ne devez accorder que les autorisations nécessaires à l'accomplissement d'une tâche. 
+3. Vous ne devez accorder que les autorisations nécessaires à l'accomplissement d'une tâche. (réponse : Limiter les autorisations aux seules personnes nécessaires permet d'éviter l'approvisionnement accidentel en ressources et de limiter le rayon d'action en cas de violation de la sécurité.)
 
 
 4. Vous ne devez utiliser que des services gérés afin d'éviter toute surcharge opérationnelle.
@@ -142,7 +142,7 @@
 3. Activer Amazon Inspector
 
 
-4. Activer GuardDuty 
+4. Activer GuardDuty (réponse : GuardDuty est un service intelligent de détection des menaces qui peut détecter dynamiquement les menaces dans votre compte AWS ou votre organisation.)
 
 #### QUESTION 10
 
@@ -155,7 +155,7 @@
 2. Chiffrer les données au repos en appliquant les clés gérées par KMS. (Les clés KMS peuvent être utilisées pour chiffrer les buckets S3, mais il est plus facile d'utiliser le chiffrement par défaut.)
 
 
-3. Les buckets S3 sont chiffrés par défaut côté serveur avec des clés gérées SSE-S3. 
+3. Les buckets S3 sont chiffrés par défaut côté serveur avec des clés gérées SSE-S3. (réponse : Les buckets S3 sont cryptés par défaut lors de leur création.)
 
 
 4. Utilisez le Gestionnaire de certificats pour fournir des certificats SSL/TLS afin de crypter le conteneur S3.

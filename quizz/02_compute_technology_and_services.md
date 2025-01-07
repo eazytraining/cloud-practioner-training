@@ -11,7 +11,7 @@
 
 3. AWS Batch fournit un traitement par lots entièrement géré à n'importe quelle échelle.
 
-4. Fargate n'est PAS un service sans serveur. 
+4. Fargate n'est PAS un service sans serveur. (réponse: Fargate est un service de calcul sans serveur qui permet aux utilisateurs d'exécuter des conteneurs sans avoir à gérer les serveurs ou les clusters.)
 
 #### QUESTION 2
 
@@ -21,7 +21,7 @@
 
 2. Répartiteur de charge de passerelle
 
-3. Répartiteur de charge réseau 
+3. Répartiteur de charge réseau (réponse: Les équilibreurs de charge réseau incluent des auditeurs TCP, UDP et TLS et prennent en charge les besoins de performances extrêmes.)
 
 4. Répartiteur de charge d'application
 
@@ -31,7 +31,7 @@
 
 1. AWS Management Console
 
-2. Lambda 
+2. Lambda (réponse: Lambda est un service de calcul utilisé pour des tâches courtes d'une durée inférieure à 15 minutes.)
 
 3. Secure Shell (SSH)
 
@@ -41,7 +41,7 @@
 
 ##### Vous devez suggérer l'option de tarification la moins chère pour les instances EC2. Il n'y a pas de exigences à respecter. Quelle option de tarification pouvez-vous suggérer?
 
-1. Instances Spot
+1. Instances Spot (réponse: Les instances Spot sont l'option de tarification la moins chère pour EC2 tant que la charge de travail peut être interrompue et que les heures de démarrage et d'arrêt n'affecteront pas négativement les utilisateurs.)
 
 2. À la demande
 
@@ -55,7 +55,7 @@
 
 1. AWS Fargate est sans serveur.
 
-2. Amazon Elastic Container Service et Amazon Elastic Kubernetes Service prennent en charge Kubernetes. 
+2. Amazon Elastic Container Service et Amazon Elastic Kubernetes Service prennent en charge Kubernetes. (réponse: Seul Elastic Kubernetes Service prend en charge Kubernetes.)
 
 3. Amazon Lightsail est une plateforme cloud qui vous offre tout ce dont vous avez besoin pour construire une application ou un site web.
 
@@ -67,7 +67,11 @@
 
 1. Outposts
 
-2. Wavelength 
+2. Wavelength (réponse: "Wavelength permet aux utilisateurs d'accéder aux applications sans quitter le réseau mobile 5G."
+
+Clarification:
+- Wavelength: Plateforme de traitement de données et de calcul périphérique d'Amazon Web Services (AWS) qui permet d'exécuter des applications à la périphérie du réseau 5G.
+- 5G: Cinquième génération de technologie de réseau mobile offrant des vitesses de connexion plus rapides et une capacité de données plus élevée que les générations précédentes.)
 
 3. Batch
 
@@ -83,7 +87,7 @@
 
 3. Wavelength
 
-4. Lightsail
+4. Lightsail (réponse: Lightsail est un service d'hébergement cloud qui permet de lancer rapidement des petits projets tels qu'un environnement de test ou des sites web WordPress préconfigurés.)
 
 #### QUESTION 8
 
@@ -93,7 +97,7 @@
 
 2. Elastic Load Balancer
 
-3. Elastic Compute Cloud 
+3. Elastic Compute Cloud (réponse: Elastic Compute Cloud (EC2) peut être utilisé pour déployer une base de données que vous contrôlez et peut également être utilisé pour héberger une application web.)
 
 4. Elastic Container Registry
 
@@ -105,7 +109,7 @@
 
 2. Optimiseur de calcul
 
-3. Mise à l'échelle automatique 
+3. Mise à l'échelle automatique (réponse: La mise à l'échelle automatique améliore la disponibilité en utilisant plusieurs zones de disponibilité et peut contribuer à réduire les coûts en diminuant l'échelle lorsque la demande diminue.)
 
 4. Une instance EC2 supplémentaire dans une zone de disponibilité (AZ) différente
 
@@ -115,7 +119,7 @@
 
 1. Utilisez EC2 
 
-2. Utilisez Batch 
+2. Utilisez Batch (réponse : Batch est un service d'AWS qui permet de planifier, d'ordonnancer et d'exécuter des charges de travail par lots à grande échelle sur AWS donc Batch peut diviser les 50 000 messages en lots pour les envoyer sans problème.)
 
 3. Utilisez Lambda 
 

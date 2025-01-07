@@ -12,7 +12,7 @@ AWS CloudFormation
 Amazon CloudWatch
 
 
-AWS Cloud9 
+AWS Cloud9 (réponse: Cloud9 est un environnement de développement intégré (IDE) qui vous permet d'écrire du code dans votre navigateur web.)
 
 
 AWS CloudTrail
@@ -22,7 +22,7 @@ AWS CloudTrail
 ##### Quel service AWS peut être utilisé pour centraliser le stockage et le contrôle des versions du code source, des binaires et des bibliothèques de votre application ?
 
 
-CodeCommit 
+CodeCommit (réponse: AWS CodeCommit est un service de contrôle de source entièrement géré qui héberge des dépôts sécurisés basés sur Git. Il permet aux équipes de collaborer facilement sur le code dans un écosystème sécurisé et hautement évolutif.)
 
 
 CodeBuild
@@ -41,7 +41,7 @@ CodePipeline
 L'interrogation courte est recommandé pour la plupart des cas d'utilisation, car il ne renvoie une réponse que lorsqu'un message se trouve dans la file d'attente ou que le délai d'attente est atteint. Cela évite de payer pour un grand nombre de réponses vides.
 
 
-L'interrogation longue est recommandée pour la plupart des cas d'utilisation, car elle ne renvoie une réponse que lorsqu'un message est dans la file d'attente ou que le délai d'attente est atteint. Cela évite de payer pour un grand nombre de réponses vides. 
+L'interrogation longue est recommandée pour la plupart des cas d'utilisation, car elle ne renvoie une réponse que lorsqu'un message est dans la file d'attente ou que le délai d'attente est atteint. Cela évite de payer pour un grand nombre de réponses vides. (réponse)
 
 
 L'interrogation longue est recommandée dans la plupart des cas d'utilisation, car elle garantit que les messages sont traités dans l'ordre où ils ont été reçus et qu'aucun doublon ne sera introduit.
@@ -54,7 +54,7 @@ L'interrogation courte est recommandée pour la plupart des cas d'utilisation, c
 ##### Lequel des énoncés suivants correspond à la description correcte d'un couplage faible dans le cadre d'une application ?
 
 
-Les composants de l'application peuvent être connectés les uns aux autres mais ne sont pas dépendants les uns des autres. 
+Les composants de l'application peuvent être connectés les uns aux autres mais ne sont pas dépendants les uns des autres. (réponse: Dans le cas d'un couplage faible, les composants de l'application peuvent être connectés les uns aux autres, mais ne sont pas dépendants les uns des autres.)
 
 
 Les composants d'application sont séparés et la communication entre les composants n'est pas autorisée.
@@ -105,7 +105,7 @@ AWS CloudShell
 L'outil de messagerie CloudWatch
 
 
-Service de notification simple (SNS(Simple Notification Service)) 
+Service de notification simple (SNS(Simple Notification Service)) (réponse : Le SNS est un service qui permet aux applications d'envoyer des courriels et des messages textuels.)
 
 
 Service de messages courts (SMS(Short Message Service))
@@ -127,14 +127,14 @@ CodePipeline
 CodeDeploy
 
 
-CodeArtifact 
+CodeArtifact (repponse: AWS CodeArtifact est un service de dépôt d'artefacts qui permet aux entreprises de stocker, publier et partager en toute sécurité les progiciels utilisés dans leur processus de développement logiciel.)
 
 #### QUESTION 9
 
 ##### Lesquelles des affirmations suivantes sont vraies à propos de Simple Queue Service (SQS) ?
 
 
-Les files d'attente standard ne garantissent pas le maintien de l'ordre exact des messages. 
+Les files d'attente standard ne garantissent pas le maintien de l'ordre exact des messages. (réponse : SQS tente de traiter les messages selon le principe du premier entré/premier sorti, mais l'ordre n'est garanti qu'avec les files d'attente FIFO de SQS.)
 
 
 Il s'agit d'un service qui ne permet qu'à un seul composant d'ajouter des messages à une file d'attente.
@@ -156,7 +156,7 @@ X-Ray
 La trame élastique (Elastic Beanstalk)
 
 
-Fonctions d'étape (Step Functions) 
+Fonctions d'étape (Step Functions) (réponse : Les fonctions d'étape sont un excellent moyen de visualiser votre application serverless. Elles déclenchent et suivent automatiquement chaque étape d'un processus, et enregistrent l'état de chaque étape, afin que vous puissiez suivre ce qui n'a pas fonctionné, et où.)
 
 
 CloudFormation
@@ -172,7 +172,7 @@ AWS Marketplace
 AWS Lambda
 
 
-AWS CloudFormation 
+AWS CloudFormation (réponse : CloudFormation vous permet de provisionner vos ressources AWS via des modèles de script.)
 
 
 AWS Elastic Beanstalk
@@ -185,7 +185,7 @@ AWS Elastic Beanstalk
 Amazon Simple Notification Service (SNS)
 
 
-Amazon Simple Email Service (SES) 
+Amazon Simple Email Service (SES) (réponse: SES vous permet d'envoyer des courriels en texte clair et en format HTML à partir de vos applications. Il est idéal pour les campagnes de marketing et les courriels professionnels.)
 
 
 Amazon Simple Queue Service (SQS)
@@ -207,7 +207,7 @@ Service de messagerie simple
 Simple Email Service (SES)
 
 
-Service de notification simple (SNS) 
+Service de notification simple (SNS) (réponse: Les SNS vous permettent d'envoyer des courriels et des messages texte à partir de vos applications distribuées.)
 
 #### QUESTION 14
 
@@ -220,7 +220,7 @@ X-Ray
 CodeBuild
 
 
-CodeDeploy 
+CodeDeploy (réponse : CodeDeploy est un service de déploiement qui automatise les déploiements d'applications vers des instances Amazon EC2, des instances sur site, des fonctions Lambda sans serveur ou des services Amazon ECS.)
 
 
 CodeCommit
@@ -236,7 +236,7 @@ X-Ray
 CloudFormation
 
 
-SQS 
+SQS (réponse: SQS peut être utilisé pour découpler les composants d'une application. Le découplage consiste à éliminer les dépendances entre les composants afin que les différents éléments de l'application puissent fonctionner de manière indépendante. En échangeant des messages à l'aide de SQS, les composants ne dépendent pas les uns des autres et n'attendent pas de réponse immédiate. La suppression des dépendances entre les composants de l'application permet à différentes parties de l'application de tomber en panne sans entraîner l'arrêt de l'ensemble de l'application.)
 
 
 CodeCommit
@@ -246,7 +246,8 @@ CodeCommit
 ##### Quel service AWS est utilisé pour vous aider à créer des applications orientées événements qui répondent aux changements d'état déclenchés par les services AWS tels que EC2 ?
 
 
-EventBridge 
+EventBridge (réponse: EventBridge est un service qui peut vous aider à créer des applications pilotées par les événements qui répondent aux changements d'état déclenchés par les services AWS comme EC2. Par exemple, une instance EC2 peut passer d'un état de fonctionnement à un état de redémarrage.
+)
 
 
 CloudFormation
@@ -271,7 +272,7 @@ Développement continu
 Déploiement continu
 
 
-Intégration continue 
+Intégration continue (réponse: L'intégration continue (IC) consiste à fusionner fréquemment, de préférence plusieurs fois par jour, les copies de travail de tous les développeurs dans un référentiel partagé. L'un des principaux avantages d'une intégration régulière est qu'elle permet de détecter rapidement les erreurs et de les localiser plus facilement. Chaque modification introduite étant généralement mineure, il est possible de repérer rapidement la modification spécifique qui a introduit un défaut.)
 
 #### QUESTION 18
 
@@ -281,7 +282,7 @@ Intégration continue
 CodeBuild
 
 
-Elastic Beanstalk 
+Elastic Beanstalk (réponse: Elastic Beanstalk peut être utilisé pour déployer rapidement et facilement une application web Java, y compris le provisionnement des instances EC2 nécessaires à l'exécution de l'application, la configuration d'un Elastic Load Balancer et même l'installation d'Apache Tomcat. Elastic Beanstalk prend en charge les applications qui utilisent les technologies suivantes : Java, .NET, PHP, Node.js, PHP, Python, Ruby, Go, Apache Tomcat, Docker, etc.)
 
 
 CodePipeline
@@ -297,7 +298,7 @@ CodeDeploy
 CodeCommit
 
 
-CloudFormation 
+CloudFormation (réponse : CloudFormation is AWS's go-to Infrastructure-as-Code solution.)
 
 
 CloudWatch
@@ -319,7 +320,7 @@ Demandes compilées
 Paquets déployables
 
 
-Tous ces éléments conviennent 
+Tous ces éléments conviennent (réponse : CodeArtifact est un service de dépôt d'artefacts entièrement géré qui permet aux organisations de toute taille de stocker, publier et partager en toute sécurité les paquets de logiciels utilisés dans leur processus de développement. Cela comprend tout ce qui est nécessaire pour créer votre application, y compris les bibliothèques, les paquets déployables, les applications compilées et la documentation relative à votre application.)
 
 
 Bibliothèques
@@ -338,7 +339,7 @@ La trame de fond élastique (Elastic Beanstalk)
 CloudFormation
 
 
-X-Ray 
+X-Ray (réponse : X-Ray fournit une vue de bout en bout des requêtes qui transitent par une application distribuée. Ces informations peuvent être utilisées pour résoudre les problèmes de connectivité et de performance.)
 
 #### QUESTION 22
 
@@ -354,4 +355,4 @@ CodePipeline
 CodeDeploy
 
 
-CodeBuild 
+CodeBuild (réponse : CodeBuild est un service d'intégration continue entièrement géré qui compile le code source, exécute des tests et produit des logiciels prêts à être déployés.)

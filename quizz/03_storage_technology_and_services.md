@@ -12,7 +12,7 @@
 2. Stockage de fichiers directement dans S3
 
 
-3. Archivage des données sous forme de bandes virtuelles 
+3. Archivage des données sous forme de bandes virtuelles (réponse: Tape Gateway permet l'archivage dans le cloud sous forme de bandes virtuelles.)
 
 
 4. Systèmes de fichiers haute performance
@@ -22,7 +22,7 @@
 ##### Lequel des cas suivants est un cas d'utilisation principal pour AWS Backup ?
 
 
-1. Automatiser et centraliser les sauvegardes sur les services AWS 
+1. Automatiser et centraliser les sauvegardes sur les services AWS (réponse: AWS Backup offre un moyen centralisé de gérer les sauvegardes à travers les services AWS.)
 
 
 2. Fournir un service de stockage en nuage hybride
@@ -38,7 +38,7 @@
 ##### Quel type de volume Amazon EBS offre les meilleures performances pour les charges de travail critiques à faible latence ou à haut débit ?
 
 
-1. Provisioned IOPS SSD(IOPS provisionné SSD) 
+1. Provisioned IOPS SSD(IOPS provisionné SSD) (réponse: Cette solution offre les meilleures performances pour les charges de travail critiques à faible latence ou à haut débit.)
 
 
 2. General Purpose SSD(SSD à usage général)
@@ -54,7 +54,7 @@
 ##### Quelle classe de stockage S3 est conçue pour les données auxquelles on accède moins souvent, mais qui nécessitent un accès rapide en cas de besoin ?
 
 
-1. S3 Standard-IA 
+1. S3 Standard-IA (réponse: S3 Standard-IA est conçu pour un accès peu fréquent mais nécessite une récupération rapide en cas d'accès.)
 
 
 2. S3 Glacier
@@ -70,7 +70,7 @@
 ##### Quelle est l'une des principales caractéristiques d'Amazon S3 ?
 
 
-1. Stockage d'objets dans le nuage avec une grande durabilité 
+1. Stockage d'objets dans le nuage avec une grande durabilité (réponse: S3 est connu pour sa durabilité et sa disponibilité élevées en matière de stockage d'objets.)
 
 
 2. Sert de bibliothèque de bandes virtuelle
@@ -89,7 +89,7 @@
 1. Cross-Region Replication(Réplication interrégionale)
 
 
-2. Bucket policies(Politiques relatives aux bacs) 
+2. Bucket policies(Politiques relatives aux bacs) (réponse: Ils sont utilisés pour gérer les autorisations et l'accès des utilisateurs à des ensembles et à des objets spécifiques)
 
 
 3. S3 Versioning(Versionnement S3)
@@ -111,7 +111,7 @@
 3. Automatiser et gérer les sauvegardes dans les services AWS
 
 
-4. Fournir des systèmes de fichiers tiers entièrement gérés 
+4. Fournir des systèmes de fichiers tiers entièrement gérés (réponse: FSx fournit des systèmes de fichiers entièrement gérés, comme Windows File Server et Lustre.)
 
 #### QUESTION 8
 
@@ -124,7 +124,7 @@
 2. Amazon EFS
 
 
-3. Instance store(Magasin d'instances) 
+3. Instance store(Magasin d'instances) (réponse: Les magasins d'instances offrent un stockage éphémère idéal pour les charges de travail temporaires à haut taux d'interopérabilité.)
 
 
 4. Amazon EBS
@@ -140,7 +140,7 @@
 2. Amazon S3
 
 
-3. Amazon EBS 
+3. Amazon EBS (réponse: EBS fournit des volumes de stockage persistants au niveau des blocs pour une utilisation avec les instances EC2.)
 
 
 4. AWS Storage Gateway (Passerelle de stockage AWS)
@@ -156,7 +156,7 @@
 2. S3 Standard
 
 
-3. S3 Standard-IA 
+3. S3 Standard-IA (réponse: Cette classe est idéale pour les données rarement consultées, nécessitant un accès rapide en cas de besoin, à moindre coût.)
 
 
 4. S3 Glacier

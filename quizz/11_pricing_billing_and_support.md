@@ -27,7 +27,7 @@
 2. C'est le plan d'assistance le moins cher qui inclut l'assistance du support AWS.
 
 
-3. Il s'agit du plan d'assistance le moins cher qui inclut l'ensemble des vérifications du Trusted Advisor ainsi qu'un accès 24 heures sur 24 et 7 jours sur 7 à l'équipe d'assistance par téléphone ou par chat. 
+3. Il s'agit du plan d'assistance le moins cher qui inclut l'ensemble des vérifications du Trusted Advisor ainsi qu'un accès 24 heures sur 24 et 7 jours sur 7 à l'équipe d'assistance par téléphone ou par chat. (réponse : À 100 $ par mois, le plan Business Support est le plan le moins cher qui inclut l'ensemble des contrôles du Trusted Advisor et l'accès 24 heures sur 24 et 7 jours sur 7 aux équipes d'assistance par téléphone et par chat. Ces fonctionnalités sont également disponibles dans les plans Enterprise On-Ramp et Enterprise Support.)
 
 
 4. Il s'agit du plan d'assistance le moins cher qui inclut une assistance à la facturation de type concierge.
@@ -37,7 +37,7 @@
 ##### Lequel des éléments suivants n'est PAS l'un des six avantages de l'informatique dématérialisée ?
 
 
-1. Minimiser le coût de l'informatique. 
+1. Minimiser le coût de l'informatique. (réponse : Si vous possédez vos propres serveurs, l'informatique est gratuite. Mais l'informatique dématérialisée est souvent moins chère si l'on tient compte du coût total de possession (TCO), qui comprend des éléments tels que la maintenance des serveurs, les services publics et la reprise après sinistre.)
 
 
 2. Arrêter de deviner la capacité. (En tirant parti de la mise à l'échelle automatique, vous pouvez vous adapter à n'importe quelle demande sur AWS.)
@@ -88,7 +88,7 @@
 1. Utiliser des instances ponctuelles
 
 
-2. Utiliser les instances réservées standard. 
+2. Utiliser les instances réservées standard. (réponse : Vous pouvez réserver des instances EC2 d'un type particulier dans le cadre de contrats d'un ou trois ans afin de réduire les coûts jusqu'à 72 %. Cette solution est idéale pour les charges de travail connues et constantes qui fonctionnent 24 heures sur 24 et 7 jours sur 7.)
 
 
 3. Utiliser les instances réservées convertibles
@@ -110,7 +110,7 @@
 3. Budgets AWS
 
 
-4. Explorateur de coûts 
+4. Explorateur de coûts (réponse : Dans Cost Explorer, vous pouvez créer des tableaux de bord qui vous aident à prévoir et à surveiller vos coûts réels d'AWS.)
 
 #### QUESTION 8
 
@@ -123,7 +123,7 @@
 2. S3 Standard-IA
 
 
-3. Récupération instantanée Glacier (Glacier Instant Retrieval) 
+3. Récupération instantanée Glacier (Glacier Instant Retrieval) (réponse : Glacier Instant Retrieval offre un stockage jusqu'à 68 % moins cher que S3 Standard-IA, en particulier pour les cas d'utilisation où vous n'accédez aux données qu'une ou deux fois par an.)
 
 
 4. Glacier Flexible Retrieval (Glacier Flexible Retrieval)
@@ -139,7 +139,7 @@
 2. Utiliser les instances réservées programmées.
 
 
-3. Utiliser les Instances Spot. 
+3. Utiliser les Instances Spot. (réponse : Les Spot Instances peuvent offrir des réductions de calcul allant jusqu'à 90 %, mais ces instances ne sont disponibles que lorsqu'AWS a un surplus de calcul disponible. C'est le scénario idéal pour utiliser les instances Spot. Vous pouvez les mettre à l'échelle lorsqu'elles sont nécessaires, et le processus n'est pas affecté si les instances s'arrêtent de manière inattendue.)
 
 
 4. Utiliser des instances réservées convertibles.

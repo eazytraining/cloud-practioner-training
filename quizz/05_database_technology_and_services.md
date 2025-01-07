@@ -8,7 +8,7 @@
 offre un stockage de données en mémoire.
 
 
-Fournit des services de gestion de bases de données relationnelles 
+Fournit des services de gestion de bases de données relationnelles (réponse: La principale caractéristique de RDS est la gestion de services de bases de données relationnelles.)
 
 
 Prend en charge les modèles de données NoSQL.
@@ -27,7 +27,7 @@ L'entreposage de données à haute capacité.
 Stockage de données à long terme.
 
 
-Analyse et mise en cache en temps réel. 
+Analyse et mise en cache en temps réel. (réponse: MemoryDB est idéal pour les cas d'utilisation nécessitant un accès rapide aux données, comme l'analyse en temps réel.)
 
 
 Traitement des requêtes structurées.
@@ -37,7 +37,7 @@ Traitement des requêtes structurées.
 ##### Quelle est la caractéristique unique du service de migration de bases de données (DMS) d'AWS ?
 
 
-La réplication continue des données pendant la migration. 
+La réplication continue des données pendant la migration. (réponse: La caractéristique unique de DMS est sa capacité à répliquer continuellement les données de la source vers la cible pendant le processus de migration.)
 
 
 Mise en cache des données en mémoire.
@@ -53,7 +53,7 @@ Capacités intégrées d'analyse des données.
 ##### Quelle est l'utilisation principale du service de migration de bases de données (DMS) d'AWS ?
 
 
-Migrer des bases de données avec un minimum de temps d'arrêt. 
+Migrer des bases de données avec un minimum de temps d'arrêt. (réponse : Le rôle principal de DMS est de permettre une migration efficace de la base de données avec un temps d'arrêt minimal.)
 
 
 Pour l'analyse des données en temps réel.
@@ -72,7 +72,7 @@ Améliorer les performances des bases de données.
 Amazon RDS.
 
 
-Amazon MemoryDB pour Redis. 
+Amazon MemoryDB pour Redis. (réponse : MemoryDB est conçu pour le stockage en mémoire et est compatible avec Redis. doc: https://blogs.oracle.com/oracle-france/post/base-de-donnees-in-memory)
 
 
 Service de migration des bases de données AWS.
@@ -85,7 +85,7 @@ Amazon DynamoDB.
 ##### Quel est l'avantage principal de l'utilisation d'Amazon DynamoDB pour les applications web ?
 
 
-L'accès aux données à faible latence. 
+L'accès aux données à faible latence. (réponse: DynamoDB est connu pour son accès à faible latence, ce qui est bénéfique pour les applications web.)
 
 
 Traitement transactionnel élevé.
@@ -110,7 +110,7 @@ Traitement transactionnel traditionnel.
 Données structurées avec des requêtes complexes.
 
 
-Données non structurées avec des modèles de données flexibles. 
+Données non structurées avec des modèles de données flexibles. (réponse : DynamoDB excelle dans les modèles de données flexibles et les données non structurées. DynamoDB est davantage destiné aux cas d'utilisation NoSQL qu'au traitement transactionnel traditionnel.)
 
 #### QUESTION 8
 
@@ -126,7 +126,7 @@ Traitement des données en temps réel.
 Cryptage et sécurité des données.
 
 
-Conversion des schémas dans le cadre de la migration des bases de données. 
+Conversion des schémas dans le cadre de la migration des bases de données. (réponse : Le rôle principal de SCT est d'aider à la conversion des schémas lors de la migration des bases de données.)
 
 #### QUESTION 9
 
@@ -136,7 +136,7 @@ Conversion des schémas dans le cadre de la migration des bases de données.
 Amazon RDS
 
 
-Amazon Neptune 
+Amazon Neptune (réponse : Neptune est conçu comme un service de base de données graphique géré.)
 
 
 Amazon DynamoDB
@@ -152,7 +152,7 @@ Amazon MemoryDB
 Il s'agit d'un service de base de données NoSQL.
 
 
-Il s'agit d'un service de base de données relationnelle géré. 
+Il s'agit d'un service de base de données relationnelle géré. (réponse : RDS est connu pour être une base de données relationnelle gérée.)
 
 
 Il se concentre principalement sur le stockage de données en mémoire.
