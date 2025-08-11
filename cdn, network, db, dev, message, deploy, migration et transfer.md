@@ -1,0 +1,20 @@
+# LISTE ORDONNÉES D'EXECTUTION DES COURS ET LABS
+
+## CONSEIL: AVANT DE PRATIQUER LES LABS, SUIVEZ TOUTE LES VIDEOS
+
+## SUIVRE UNIQUEMENT LES VIDEOS DONT J'AI ENVOYE LES LIENS DANS L'ORDRE
+
+
+Suivre: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-vpc/
+
+Suivre : https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-security-group/
+
+Suivre: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-cloudfront/
+
+Suivre: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-rds/
+
+Suivre : https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-dynamodb/
+
+Suivre: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-redshift/
+
+Suivre: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-aurora/
