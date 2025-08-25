@@ -1,0 +1,21 @@
+# LISTE ORDONNÉES D'EXECTUTION DES COURS ET LABS
+
+## CONSEIL: AVANT DE PRATIQUER LES LABS, SUIVEZ TOUTE LES VIDEOS
+
+## SUIVRE UNIQUEMENT LES VIDEOS DONT J'AI ENVOYE LES LIENS DANS L'ORDRE
+
+
+Suivre sans pratiquer tout Module 08 : Balancing Scaling Monitoring: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-elb/
+
+suivre sans pratiquer tout le module Module 09 : Security: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-shared-responsability/
+
+suivre sans pratiquer tout le Module 10 : Billing and Support: https://eazytraining.fr/cours/aws-preparation-a-la-certification-cloud-practitioner-2020/lessons/aws-organizations/
+
+Suivre et pratiquer apres avoir tout suivi les autres cours tout le Module 16 : Elasticité et haute disponibilité : Projet: https://eazytraining.fr/cours/devenez-aws-certified-associate-architect-et-sysops/lessons/00_projet_-aws_3-tier-architecture-2/
+
+Suivre et pratiquer apres avoir tout suivi les autres cours tout Module 18 : Service d'intégration d'application et d'outils développeurs Projet : https://eazytraining.fr/cours/devenez-aws-certified-associate-architect-et-sysops/lessons/lien-repo-github-du-projet-8/
+
+Suivre tout Module 25: Service D'intelligence Artificielle: Projet : https://eazytraining.fr/cours/devenez-aws-certified-associate-architect-et-sysops/lessons/lien-repo-github-du-projet-11/
+
+Suivre et pratiquer apres avoir tout suivi les autres cours tout Module 26 : Services De Gouvernance Et service de Facturation : https://eazytraining.fr/cours/devenez-aws-certified-associate-architect-et-sysops/lessons/00_module_14_services_de_gouvernance_et_de_facturation_aws/
+
